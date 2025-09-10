@@ -53,8 +53,8 @@ Key takeaways:
 - **Money Laundering and Identity Theft** are the costliest per incident.  
 - **Phishing** has the highest number of cases (215), but lower average loss per case.  
 - **Fake Invoices** are frequent but least costly per case.
-- Additional Insight: 
-- Phishing (75 cases) and Unauthorized Access (74 cases) have the highest **high-severity** cases.  
+- **Additional Insight**: 
+  Phishing (75 cases) and   Unauthorized Access (74 cases) have the highest **high-severity** cases.  
 
 
 ### 4. Seasonality and Trend Analysis
