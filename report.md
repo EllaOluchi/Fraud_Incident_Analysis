@@ -1,5 +1,17 @@
 # Detailed Fraud Analysis Report (2024)
 
+## Project Objective  
+To analyze **fraud investigation cases** handled by 5 investigators across different fraud types observed in 2024, in order to uncover resolution delays, fraud cost drivers, seasonal patterns, and high-risk case types.  
+
+**Focus Areas:**  
+- Identifying unusual delays in resolving medium- and low-risk cases.  
+- Highlighting gaps in case assignments (e.g., unassigned open cases).  
+- Comparing fraud types by case count, total losses, and loss per case.  
+- Detecting seasonal spikes (especially June and December).  
+- Assessing correlation between loss amount and case severity.  
+
+**In short:** Evaluating fraud investigation performance and fraud patterns to improve case resolution and resource allocation.
+
 ## Overview
 The analysis covers:
 - **1,000 transactions**  
@@ -40,8 +52,9 @@ The analysis covers:
 Key takeaways:
 - **Money Laundering and Identity Theft** are the costliest per incident.  
 - **Phishing** has the highest number of cases (215), but lower average loss per case.  
-- **Fake Invoices** are frequent but least costly per case.  
-- Phishing (75) and Unauthorized Access (74) have the highest **high-severity** cases.  
+- **Fake Invoices** are frequent but least costly per case.
+- Additional Insight: 
+- Phishing (75 cases) and Unauthorized Access (74 cases) have the highest **high-severity** cases.  
 
 
 ### 4. Seasonality and Trend Analysis
