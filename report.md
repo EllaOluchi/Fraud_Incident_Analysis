@@ -59,8 +59,11 @@ Key takeaways:
 
 ### 4. Seasonality and Trend Analysis
 
-- **Q2**: Highest fraud cases (272) and highest losses (13,253,670.18).  
-- **June**: Peak month for both case count and financial losses → possible seasonal pattern.  
+- **Q2**: Highest fraud cases (272) and highest losses (13,253,670.18). 
+- Analysis shows that June is the peak month for both the highest number of fraud cases and the greatest financial losses across **all fraud types**
+- The spike in June for both cases and losses suggests a seasonal trend
+- June represents a critical risk period, indicating a possible seasonal pattern in cybercrime activity
+
 
 **Month-over-Month (MoM) Case Changes:**
 - December: +24% (sharpest growth)  
@@ -98,7 +101,7 @@ Key takeaways:
 ### Seasonal Trends
 - Deploy **extra security resources** in **Q4**, especially mid-November to December.  
 - Run **end-of-year scam awareness campaigns** for customers.  
-- Analyze **mid-year fraud patterns** for early detection of emerging risks.  
+- Analyze **mid-year fraud patterns** for early detection of emerging risks. Carry out a deeper analysis on transactions that took place in June to identify possible fraud patterns.
 - Use **Q3 (July–September)** for **system upgrades** and reinforcement.  
 - Apply stricter **transaction limits, verification, or manual reviews** for high-value transactions in December.  
 - Partner with **banks and payment providers** to flag unusual high-value year-end transactions.
